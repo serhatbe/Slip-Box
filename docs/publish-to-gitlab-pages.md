@@ -2,7 +2,7 @@
 
 You don't have to use GitHub to serve Foam pages. You can also use GitLab.
 
-Gitlab pages can be kept private for private repo, so that your notes are still private.
+GitLab pages can be kept private for private repo, so that your notes are still private.
 
 ## Setup a project
 
