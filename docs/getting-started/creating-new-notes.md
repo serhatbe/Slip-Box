@@ -5,7 +5,7 @@
 - `Cmd` + `Shift` + `P` (`Ctrl` + `Shift` + `P` for Windows), execute `Foam: Create Note` and enter a **Title Case Name** to create `Title Case Name.md`
   - Add a keyboard binding to make creating new notes easier. See [[commands]] for more info on this.
   - The [[note-templates]] used by this command can be customized.
-- You shouldn't worry too much about categorizing your notes. You can always [[search-for-notes]], and explore them using the [[graph-visualization]].
+- You shouldn't worry too much about categorizing your notes. You can always [[search-for-notes]], and explore them using the [[graph-visualization]]. [[graph-visualization]]
 
 ![tux](../../attachments/tux.png)
 
