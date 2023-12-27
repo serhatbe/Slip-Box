@@ -3,3 +3,5 @@ Serhat
 Beyenir
 Spellright
 Zotero
+Zettelkasten
+zettelkasten
