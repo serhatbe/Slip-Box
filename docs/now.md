@@ -1,7 +1,7 @@
 ---
 title: "What I'm up to now"
 ---
-Last update: 2023-December-25
+Last update: 2023-12-27
 
 *Inspired by [Derek Sivers](https://sive.rs/nowff)*
 ## Rest, Reflect, Re-charge and Re-calibrate
