@@ -1,7 +1,7 @@
 # Paste Images from Clipboard
 
 By installing the [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) extension, you can paste an image from the clipboard with `cmd+alt+v`.
-
+![tux](../../attachments/tux.png)
 
 ![image](2023-12-26-12-21-30.png)
 
