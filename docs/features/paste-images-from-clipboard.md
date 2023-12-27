@@ -2,6 +2,9 @@
 
 By installing the [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) extension, you can paste an image from the clipboard with `cmd+alt+v`.
 
+
+![image](2023-12-26-12-21-30.png)
+
 Images are automatically copied to the `/attachments` folder and a reference is added in the file where you pasted them.
 
 A prompt will ask you to confirm the name of the image, to disable it set `"pasteImage.showFilePathConfirmInputBox": false,` in the settings.
