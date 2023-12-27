@@ -126,6 +126,7 @@ _See [[contribution-guide]] and [[how-to-write-recipes]]._
 [custom-markdown-preview-styles]: ..%2Ffeatures%2Fcustom-markdown-preview-styles.md "Custom Markdown Preview Styles"
 [add-images-to-notes]: add-images-to-notes.md "Add images to your notes"
 [shows-image-preview-on-hover]: shows-image-preview-on-hover.md "Shows Image Preview on Hover"
+[good-first-task]: ..%2F..%2Fgood-first-task.md "Foam Note Templates"
 [including-notes]: ..%2Ffeatures%2Fincluding-notes.md "Including notes in a note"
 [write-your-notes-in-github-gist]: write-your-notes-in-github-gist.md "Write your notes in GitHub Gist"
 [automatic-git-syncing]: automatic-git-syncing.md "Automatically Sync with Git"
