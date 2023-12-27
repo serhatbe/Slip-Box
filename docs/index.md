@@ -1,3 +1,10 @@
+- [Using Foam as Zettelkasten](#using-foam-as-zettelkasten)
+  - [Getting Started](#getting-started)
+  - [Features](#features)
+  - [Recipes](#recipes)
+  - [Publishing](#publishing)
+  - [Old Zettlr](#old-zettlr)
+
 # Using Foam as Zettelkasten  
 
 *Zettlr* has been acting up after the last update and I'm exploring new tools such as #Foam.
