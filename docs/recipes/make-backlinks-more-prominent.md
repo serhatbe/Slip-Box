@@ -1,6 +1,6 @@
 # Make Backlinks More Prominent
 
-One of the most most common early feature requests in Foam is to make the Markdown Notes Backlinks Explorer more prominent.
+One of the most common early feature requests in Foam is to make the Markdown Notes Backlinks Explorer more prominent.
 
 This #recipe shows you how to do that.
 
