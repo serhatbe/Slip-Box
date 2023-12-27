@@ -1,19 +1,22 @@
 # Using Foam as Zettelkasten  
 
+*Zettlr* has been acting up after the last update and I'm exploring new tools such as #Foam.
+
+[[Zettlr]] 
+
 Foam is a collection VS Code extensions and recipes that power up the editor
 into a full-blown note-taking or zettelkasten system. This folder contains user documentation
 describing how to get started using Foam, what its main features are, and
 strategies for getting the most out of Foam. The full docs are included in the
 `foam-template` repo that most users start from.
 
-[[frequently-asked-questions]]
 
-> See also [[frequently-asked-questions]].
+[[frequently-asked-questions]]
 
 ## Getting Started
 
-- [[get-started-with-vscode]] and [[get-started-with-vscode]]
-- [[recommended-extensions]] [[recommended-extensions]]
+- [[get-started-with-vscode]]
+- [[recommended-extensions]]
 - [[creating-new-notes]]
 - [[write-notes-in-foam]]
 - [[sync-notes-with-source-control]]

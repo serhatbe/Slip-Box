@@ -5,3 +5,4 @@ Spellright
 Zotero
 Zettelkasten
 zettelkasten
+Zettlr

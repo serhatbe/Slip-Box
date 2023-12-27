@@ -1,0 +1,2 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qspelll\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QZettlr has been acting up after the last update and I'm exploring new tools such as #Foam.\\E$"}
