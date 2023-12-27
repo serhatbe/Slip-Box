@@ -10,7 +10,6 @@ describing how to get started using Foam, what its main features are, and
 strategies for getting the most out of Foam. The full docs are included in the
 `foam-template` repo that most users start from.
 
-
 [[frequently-asked-questions]]
 
 ## Getting Started

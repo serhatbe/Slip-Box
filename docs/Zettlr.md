@@ -1,10 +1,15 @@
 # Markdown Editor
 
 - [Markdown Editor](#markdown-editor)
+  - [Citation](#citation)
   - [Zettlr](#zettlr)
   - [Text](#text)
   - [More text](#more-text)
   - [And one more](#and-one-more)
+
+## Citation 
+
+Murakami [^murakamiNovelistVocation2022], Isaacson[^isaacsonElonMusk2023] 
 
 ## Zettlr
 From idea to publication in one app: Zettlr accompanies you while writing your blog post, newspaper article, term paper, thesis, or entire book. See documentation at [Zettlr](https://www.zettlr.com/) 
@@ -26,3 +31,5 @@ Exercitation aliquip eu dolore commodo aliqua pariatur do exercitation dolor. Qu
 Quis occaecat nostrud nostrud ex consequat eu consectetur exercitation esse. Nulla magna qui excepteur occaecat Lorem ad esse consectetur. Incididunt minim adipisicing sit minim magna magna aute est. Ex magna ex laborum duis nostrud laborum sint aliqua eu laborum dolor magna ut.
 
 Deserunt enim do amet eu sunt dolore qui adipisicing officia consequat laborum. Commodo culpa in incididunt voluptate reprehenderit. Qui anim elit eiusmod laboris nostrud velit et ea ea ea. Ipsum officia et qui nulla ea. Dolore laborum adipisicing elit do voluptate est duis amet veniam nulla qui quis. Nostrud irure labore quis id adipisicing proident labore eiusmod ut cupidatat proident nisi. Ullamco ea pariatur minim anim cillum non aute.
+[^murakamiNovelistVocation2022]: Murakami, H. (2022). Novelist as a Vocation (P. Gabriel & T. Goossen, Trans.). Bond Street Books.
+[^isaacsonElonMusk2023]: Isaacson, W. (2023). Elon Musk. Simon & Schuster.
